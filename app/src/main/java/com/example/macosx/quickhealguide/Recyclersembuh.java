@@ -45,10 +45,9 @@ class Recyclersembuh extends RecyclerView.Adapter<Recyclersembuh.MyviewHolder> {
     public void onBindViewHolder(MyviewHolder holder, final int position) {
 
         holder.txtjudul.setText(judul[position]);
-        Picasso.get().load(imgambar.length).placeholder(R.drawable.ic_launcher_background).into(holder.imgView);
-
+//        Picasso.get().load(imgambar.length).placeholder(R.drawable.ic_launcher_background).into(holder.imgView);
         Glide.with(context)
-                .load(imgambar.length)
+                .load(imgambar[position])
                 .placeholder(R.drawable.ic_launcher_background)
                 .into(holder.imgView);
 
