@@ -1,0 +1,282 @@
+<resources>
+    <string name="app_name">Cepat Tanggap P3K</string>
+
+    <string name="gejala_pingsan">
+        - Perasaan limbung
+        \n- Pandangan berkunang-kunang
+        \n- Telinga berdenging
+        \n- Nafas tidak teratur
+        \n- Muka pucat
+        \n- Biji mata melebar
+        \n- Lemas
+        \n- Keringat dingin
+        \n- Menguap berlebihan
+        \n- Tak respon (beberapa menit)
+        \n- Denyut nadi lambat</string>
+
+    <string name="penanganan_pingsan">
+        1. Baringkan korban dalam posisi terlentang
+        \n2. Tinggikan tungkai melebihi tinggi jantung
+        \n3. Longgarkan pakaian yang mengikat dan hilangkan barang yang menghambat pernafasan
+        \n4. Beri udara segar
+        \n5. Periksa kemungkinan cedera lain
+        \n6. Selimuti korban
+        \n7. Korban diistirahatkan beberapa saat
+        \n8. Bila tak segera sadar >> periksa nafas dan nadi >> posisi stabil >> Rujuk ke instansi kesehatan</string>
+    
+    <string name="gejala_dehidrasi">
+        -Dehidrasi ringan
+        \n1.Defisit cairan 5% dari berat badan
+        \n2.Penderita merasa haus
+        \n3.Denyut nadi lebih dari 90x/menit
+        \n-Dehidrasi sedang
+        \n1.Defisit cairan antara 5-10% dari berat badan
+        \n2.Nadi lebih dari 90x/menit
+        \n3.Nadi lemah
+        \n4.Sangat haus
+        \n-.Dehidrasi berat
+        \n1.Defisit cairan lebih dari 10% dari berat badan
+        \n2.Hipotensi
+        \n3.Mata cekung
+        \n4.Nadi sangat lemah, sampai tak terasa
+        \n5.Kejang-kejang</string>
+
+    <string name="penanganan_dehidrasi">
+        1.Mengganti cairan yang hilang dan mengatasi shock
+\n2.mengganti elektrolit yang lemah
+\n3.Mengenal dan mengatasi komplikasi yang ada
+\n4.Memberantas penyebabnya
+\n5.Rutinlah minum jangan tunggu haus
+    </string>
+    
+    <string name="gejala_asma">
+        -Sukar bicara tanpa berhenti, untuk menarik nafas
+\n-Terdengar suara nafas tambahan
+\n-Otot Bantu nafas terlihat menonjol (dileher)
+\n-Irama nafas tidak teratur
+\n-Terjadinya perubahan warna kulit (merah/pucat/kebiruan/sianosis)
+\n-Kesadaran menurun (gelisah/meracau)
+    </string>
+
+    <string name="penanganan_asma">
+        1.Tenangkan korban
+\n2.Bawa ketempat yang luas dan sejuk
+\n3.Posisikan ½ duduk
+\n4.Atur nafas
+\n5.Beri oksigen (bantu) bila diperlukan
+    </string>
+    
+    <string name="gejala_pusing">
+        1.Tenangkan korban
+\n2.Bawa ketempat yang luas dan sejuk
+\n3.Posisikan ½ duduk
+\n4.Atur nafas
+\n5.Beri oksigen (bantu) bila diperlukan
+    </string>
+    <string name="penanganan_pusing">
+        -Istirahatkan korban
+\n-Beri minuman hangat
+\n-beri obat bila perlu
+\n-Tangani sesuai penyebab
+    </string>
+
+    <string name="gejala_maag">
+        -Perut terasa nyeri/mual
+\n-Berkeringat dingin
+\n-Lemas
+    </string>
+    <string name="penanganan_maag">
+        1.Istirahatkan korban dalam posisi duduk ataupun berbaring sesuai kondisi korban
+\n2.Beri minuman hangat (teh/kopi)
+\n3.Jangan beri makan terlalu cepat
+    </string>
+
+    <string name="gejala_jantunglemah">
+       - Nyeri di dada
+\n-Penderita memegangi dada sebelah kiri bawah dan sedikit membungkuk
+\n-Kadang sampai tidak merespon terhadap suara
+\n-Denyut nadi tak teraba/lemah
+\n-Gangguan nafas
+\n-Mual, muntah, perasaan tidak enak di lambung
+\n-Kepala terasa ringan
+\n-Lemas
+\n-Kulit berubah pucat/kebiruan
+\n-Keringat berlebihan
+\n-Tidak semua nyeri pada dada adalah sakit jantung. Hal itu bisa terjadi karena gangguan pencernaan, stress, tegang.
+    </string>
+    <string name="penanganan_jantunglemah">
+        1.Tenangkan korban
+\n2.Istirahatkan
+\n3.Posisi ½ duduk
+\n4.Buka jalan pernafasan dan atur nafas
+\n5.Longgarkan pakaian dan barang barang yang mengikat pada badan
+\n6.Jangan beri makan/minum terlebih dahulu
+\n7.Jangan biarkan korban sendirian (harus ada orang lain didekatnya)
+    </string>
+    
+    <string name="gejala_histeria">
+        -Seolah-olah hilang kesadaran
+\n-Sikapnya berlebihan (meraung-raung, berguling-guling di tanah)
+\n-Tidak dapat bergerak/berjalan tanpa sebab yang jelas
+    </string>
+    <string name="penangaan_histeria">
+        1.Tenangkan korban
+\n2.Pisahkan dari keramaian
+\n3.Letakkan di tempat yang tenang
+\n4.Awasi
+    </string>
+    
+    <string name="gejala_mimisan">
+        -Dari lubang hidung keluar darah dan terasa nyeri
+\n-Korban sulit bernafas dengan hidung karena lubang hidung tersumbat oleh darah
+\n-Kadang disertai pusing
+    </string>
+    <string name="penanganan_mimisan">
+        1.Bawa korban ke tempat sejuk/nyaman
+\n2.Tenangkan korban
+\n3.Korban diminta menunduk sambil menekan cuping hidung
+\n4.Diminta bernafas lewat mulut
+\n5.Bersihkan hidung luar dari darah
+\n6.Buka setiap 5/10 menit. Jika masih keluar ulangi tindakan Pertolongan Pertama
+    </string>
+    
+    <string name="gejala_kram">
+       - Nyeri pada otot
+\n-Kadang disertai bengkak
+    </string>
+    <string name="penanganan_kram">
+        1.Istirahatkan
+\n2.Posisi nyaman
+\n3.Relaksasi
+\n4.Pijat berlawanan arah dengan kontraksi
+    </string>
+
+    <string name="gejala_memar">
+        -Warna kebiruan/merah pada kulit
+\n-Nyeri jika di tekan
+\n-Kadang disertai bengkak
+    </string>
+
+<string name="penanganan_memar">
+    1.Kompres dingin
+\n2.Balut tekan
+\n3.Tinggikan bagian luka
+</string>
+    
+    <string name="gejala_keseleo">
+        -Bengkak
+\n-Nyeri bila tekan
+\n-Kebiruan/merah pada derah luka
+\n-Sendi terkunci
+\n-Ada perubahan bentuk pada sendi
+    </string>
+    <string name="penanganan_keseleo">
+        1.Korban diposisikan nyaman
+\n2.Kompres es/dingin
+\n3.Balut tekan dengan ikatan 8 untuk mengurangi pergerakan
+\n4.Tinggikan bagian tubuh yang luka
+    </string>
+    
+    <string name="gejala_luka">
+        -Terbukanya kulit
+\n-Pendarahan
+\n-Rasa nyeri
+    </string>
+    <string name="penanganan_luka">
+        1.Bersihkan luka dengan antiseptic (alcohol/boorwater)
+\n2.Tutup luka dengan kasa steril/plester
+\n3.Balut tekan (jika pendarahannya besar)
+\n4.Jika hanya lecet, biarkan terbuka untuk proses pengeringan luka
+    </string>
+    
+    <string name="gejala_pendarahan">
+        yaitu keluarnya darah dari saluran darah kapan saja, dimana saja, dan waktu apa saja.
+    </string>
+    <string name="penanganan_pendarahan">
+        Ada beberapa cara :
+        \nFisika = Bila dikompres dingin akan mengecil dan mengurangi pendarahan
+        Bila dengan panas akan terjadinya penjedalan dan mengurangi
+        \nKimia = Obat-obatan
+        \nBioKimia = VitaminK
+        \nElektrik = Diahermik
+    </string>
+
+    <string name="gejala_patahtulang">
+        -Perubahan bentuk
+\n-Nyeri bila ditekan dan kaku
+\n-Bengkak
+\n-Terdengar/terasa (korban) derikan tulang yang retak/patah
+\n-Ada memar (jika tertutup)
+\n-Terjadi pendarahan (jika terbuka)
+\n-Jenisnya
+\n-Terbuka (terlihat jaringan luka)
+\n-Tertutup
+    </string>
+
+    <string name="penanganan_patahtulang">
+        -Apabila Tulang tertutup =
+        \n1.Periksa Gerakan (apakah bagian tubuh yang luka bias digerakan/diangkat)
+\n2.Sensasi (respon nyeri)
+\n3.Sirkulasi (peredaran darah)
+\n4.Ukur bidai disisi yang sehat
+\n5.Pasang kain pengikat bidai melalui sela-sela tubuh bawah
+\n6.Pasang bantalan didaerah patah tulang
+\n7.Pasang bidai meliputi 2 sendi disamping luka
+\n8.Ikat bidai
+\n9.Periksa GSS(Gerakan,Sensasi,Sirkulasi).
+
+        \n-Apabila Tulang terbuka =
+        \n1.Buat pembalut cincin untuk menstabilkan posisi tulang yang mencuat
+\n2.Tutup tulang dengan kasa steril, plastik, pembalut cincin
+\n3.Ikat dengan ikatan V
+\n4.Untuk selanjutnya ditangani seperti pada patah tulang tertutup
+    </string>
+
+    <string name="gejala_lukabakar">
+         luka yangterjadi akibat sentuhan tubuh dengan benda-benda yang menghasilkan panas (api, air panas, listrik, atau zat-zat yang bersifat membakar)
+    </string>
+    <string name="penanganan_lukabakar">
+        1.Matikan api dengan memutuskan suplai oksigen
+\n2.Perhatikan keadaan umum penderita
+\n3.Pendinginan
+\n4.Membuka pakaian penderita/korban
+\n5.Merendam dalam air atau air mengalir selama 20 atau 30 menit. Untuk daerah wajah, cukup dikompres air
+\n-Mencegah infeksi
+\n1.Luka ditutup dengan perban atau kain bersih kering yang tak dapat melekat pada luka
+\n2.Penderita dikerudungi kain putih
+\n3.Luka jangan diberi zat yang tak larut dalam air seperti mentega, kecap dll
+\n4.Pemberian sedative/morfin 10 mg im diberikan dalam 24 jam sampai 48 jam pertama
+\n5.Bila luka bakar luas penderita diKuasakan
+\n6.Transportasi kefasilitasan yang lebih lengkap sebaiknya dilakukan dalam satu jam bila tidak memungkinkan masih bisa dilakukan dalam 24-48 jam pertama dengan pengawasan ketat selama perjalanan.
+\n7.Khusus untuk luka bakar daerah wajah, posisi kepala harus lebih tinggi dari tubuh.
+    </string>
+
+    <string name="gejala_hipotermia">
+        -Menggigil/gemetar
+\n-Perasaan melayang
+\n-Nafas cepat, nadi lambat
+\n-Pandangan terganggu
+\n-Reaksi manik mata terhadap rangsangan cahaya lambat
+    </string>
+    <string name="penanganan_hipotermia">
+        1.Bawa korban ketempat hangat
+\n2.Jaga jalan nafas tetap lancar
+\n3.Beri minuman hangat dan selimut
+\n4.Jaga agar tetap sadar
+\n5.Setelah keluar dari ruangan, diminta banyak bergerak (jika masih kedinginan)
+
+    </string>
+
+    <string name="gejala_keracunanmakanan">
+        -Mual, muntah
+\n-Keringat dingin
+\n-Wajah pucat/kebiruan
+    </string>
+    <string name="penanganan_keracunanmakanan">
+        1.Bawa ke tempat teduh dan segar
+\n2.Korban diminta muntah
+\n3.Diberi norit
+\n4.Istirahatkan
+\n5.Jangan diberi air minum sampai kondisinya lebih baik
+    </string>
+</resources>
